@@ -103,7 +103,7 @@ class Projects extends Component {
                           </p>
                         </div>
                         <div className="projectLink">
-                          <a className="boldHeader" href="">
+                          <a className="boldHeader" href="http://github.com/pacmacro">
                             —View Project
                           </a>
                         </div>
@@ -123,7 +123,7 @@ class Projects extends Component {
                           </p>
                         </div>
                         <div className="projectLink">
-                          <a className="boldHeader" href="">
+                          <a className="boldHeader" href="https://github.com/sfusurge/DegreeNavigator">
                             —View Project
                           </a>
                         </div>
@@ -143,7 +143,7 @@ class Projects extends Component {
                           </p>
                         </div>
                         <div className="projectLink">
-                          <a className="boldHeader" href="">
+                          <a className="boldHeader" href="https://github.com/sfusurge/StormArea52">
                             —View Project
                           </a>
                         </div>
@@ -168,7 +168,7 @@ class Projects extends Component {
                           </p>
                         </div>
                         <div className="projectLink">
-                          <a className="boldHeader" href="">
+                          <a className="boldHeader" href="https://github.com/sfusurge/MealMovers">
                             —View Project
                           </a>
                         </div>
@@ -188,7 +188,7 @@ class Projects extends Component {
                           </p>
                         </div>
                         <div className="projectLink">
-                          <a className="boldHeader" href="">
+                          <a className="boldHeader" href="https://github.com/sfusurge/build-a-bot-royale">
                             —View Project
                           </a>
                         </div>
@@ -209,7 +209,7 @@ class Projects extends Component {
                           </p>
                         </div>
                         <div className="projectLink">
-                          <a className="boldHeader" href="">
+                          <a className="boldHeader" href="https://github.com/sfusurge/SpaceBook">
                             —View Project
                           </a>
                         </div>

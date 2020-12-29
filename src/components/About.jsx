@@ -1,6 +1,5 @@
 import React, { Component } from "react";
 import aboutUsTitle from "../assets/ABOUT US.png";
-import TechStartsHere from "../assets/#TechStartsHere.png";
 import rect from "../assets/rectangle.png";
 import jeffrey from "../assets/headshots/jeffrey.JPG";
 import ali from "../assets/headshots/ali.JPG";

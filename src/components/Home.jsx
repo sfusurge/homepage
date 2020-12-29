@@ -8,11 +8,9 @@ import { Link } from "react-router-dom";
 import "../style/home.css";
 import homeTitle from "../assets/SURGETITLE.png";
 import whoAreWe from "../assets/whoAreWe.png";
-import rect from "../assets/rectangle.png";
 import whatWeDoImg1 from "../assets/Projects.jpg";
 import whatWeDoImg2 from "../assets/Workshops.jpg";
 import whatWeDoImg3 from "../assets/Events.jpg";
-import eventsBgRectangle from "../assets/eventsBgRectangle.png";
 import cardRect from "../assets/cardRect.png";
 import leetcode from "../assets/leetcodeParties.jpg";
 import Footer from "./Navigation/Footer.js";
@@ -195,16 +193,6 @@ class Home extends Component {
                             opportunity to see what our talented teams have been
                             building and designing!
                           </p>
-                        </div>
-                        <div className="eventLink">
-                          <a
-                            className="boldHeader"
-                            href=""
-                            target="_blank"
-                            rel="noopener noreferrer"
-                          >
-                            —Learn more
-                          </a>
                         </div>
                       </div>
                     </div>
